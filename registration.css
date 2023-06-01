@@ -1,0 +1,21 @@
+form{
+	border-radius: 100px;
+	border-style: double;
+	width: 30%;
+	backdrop-filter: blur(20px);
+	background: transparent;
+	font-weight: bold;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 25px;
+	margin-top: 10%;
+	
+}
+h1{
+    color: rgb(255, 86, 2);
+    text-align: center;
+    margin-bottom: 10%;
+	text-shadow: 0mm;
+}
+body{
+	background-image: url('i11.jpg');
+}

@@ -1,0 +1,174 @@
+form{
+	border-radius: 100px;
+	border-style: double;
+	width: 50%;
+	background-color: pink;
+	font-weight: bold;
+	font-family: fantasy;
+	font-size: 25px;
+	margin-top: 10%;
+	
+}
+	body{
+		background-color: rgb(122, 7, 97);
+		background-image: url('PIC 18.jpg')
+
+	}
+	u{
+		color: orangered;
+	}
+
+	/* men style */
+	h1{
+		color: black;
+		text-align: center;
+		
+	}
+	.pp{
+		margin-top: 50px;
+	}
+	p{
+		border-radius: 500px;
+		font-weight: bolder;
+		font-family: sans-serif;
+		width: 500px;
+		padding: 30px;
+		border:dotted;
+		background-color: skyblue;
+		text-align: center;
+	}
+	h1{
+		color: black;
+		border-image: unset;
+		column-width: 500px;
+		width: 500px;
+	}
+	P2{
+		border: 50px;
+		font-family: sans-serif;
+		font-weight: bolder;
+		background-color: limegreen;
+		color: whitesmoke;
+		width: 10px;
+		height: 10px;
+		padding:20px;
+		margin-top: 100%;
+	}
+	img{
+		padding: 5px;
+		border-radius: 50px;
+		float: right;
+		width: 200px;
+		height: 200px;
+		margin-left: 50px;
+		
+		
+	
+	}
+
+	P3{
+		border: 100px;
+		font-family: arial;
+		font-weight: bolder;
+		
+		color: whitesmoke;
+		width: 1px;
+		height: 1px;
+		padding: 30px;
+	}
+
+	/* home .html */
+	a{
+		display: flex;
+		border-radius: 50px;
+		 font-size: 20px;
+			width: 100px;
+			padding: 10px;
+		  font-family: impact;
+		  text-decoration: none;
+		  
+		  background-color: rgb(47, 47, 87);
+		  color: black;
+		   font-style: oblique; 
+		   margin-left:50px;
+		   position: relative;
+		   float: left;
+	
+		
+		
+		}
+		.pp{
+			margin-bottom: 50px;
+			writing-mode: sideways-lr;
+			width: fit-content;
+			width: 20px;
+			font: optional;
+			margin-bottom: 100px;
+		}
+		.welcome{
+			text-align: center;
+		}
+
+/* about.html */
+p{
+	border-radius: 50px;
+	padding: 50px;
+	font-family: turns in roman;
+	font-weight: bolder;
+	background-color: rgb(164, 26, 54);
+	font-size: 30px;
+	width: 500px;
+	 float: left;
+	 margin-left: 300px;
+	
+}
+img{
+	padding: 30px;
+	font-size: 1000px;
+}
+h5{
+	margin-top: 10px;
+	text-align: center;
+	
+}
+/* TABs CSS */
+ul{
+	float: center;
+	list-style-type: none;
+	margin-top: 0px;
+}
+ul li{
+	display:inline-block;
+}
+ul li a{
+	border-radius: 30%;
+	text-decoration:none;
+	color: #fff;
+	padding:5px 20px;
+	border:1px solid #fff;
+transition:0..6s ease;
+}
+ul li a:hover{
+	border-color: blue;
+	color:#000;
+	background-color:yellow;
+}
+/* BABY CSS */
+.pic{
+	border-radius: 100%;
+	padding: 30px;
+}
+.H{
+	background-color: blueviolet;
+}
+/* girls */
+.pi ul li a{
+	background-color: rgb(192, 17, 192);
+	transition: 2s;
+}
+body{
+	background-color: rgb(255, 0, 191);
+}
+.p2{
+	margin-top: 20px;
+}
